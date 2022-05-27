@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-27T18:56:33 IST" name="Default suite" finished-at="2022-05-27T18:57:29 IST" duration-ms="55382">
+    <groups>
+    </groups>
+    <test started-at="2022-05-27T18:56:33 IST" name="Default test" finished-at="2022-05-27T18:57:29 IST" duration-ms="55382">
+      <class name="com.mohs10.test.MyAcc_ChangePassTest">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:56:33 IST" name="generateReport" finished-at="2022-05-27T18:56:33 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:56:33 IST" name="beforeClass" finished-at="2022-05-27T18:56:35 IST" duration-ms="1895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:56:35 IST" name="methodName" finished-at="2022-05-27T18:56:35 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.test.MyAcc_ChangePassTest.ChangePassLhs() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="ChangePassLhs()[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:56:35 IST" name="ChangePassLhs" finished-at="2022-05-27T18:56:53 IST" duration-ms="17760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangePassLhs -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:56:53 IST" name="methodName" finished-at="2022-05-27T18:56:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.test.MyAcc_ChangePassTest.ChangePassRhs() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="ChangePassRhs()[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:56:53 IST" name="ChangePassRhs" finished-at="2022-05-27T18:57:10 IST" duration-ms="16871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangePassRhs -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:57:10 IST" name="methodName" finished-at="2022-05-27T18:57:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.test.MyAcc_ChangePassTest.ChangePassSiteMap() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="ChangePassSiteMap()[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:57:10 IST" name="ChangePassSiteMap" finished-at="2022-05-27T18:57:28 IST" duration-ms="17983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangePassSiteMap -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.mohs10.test.MyAcc_ChangePassTest@e15b7e8]" started-at="2022-05-27T18:57:28 IST" name="afterClass" finished-at="2022-05-27T18:57:29 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mohs10.test.MyAcc_ChangePassTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
